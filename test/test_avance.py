@@ -67,3 +67,4 @@ def test_method4(bus, address):
 
 if __name__ == "__main__":
     test_capteur_simple()
+EOF

@@ -1,3 +1,4 @@
+cat > test_simple.py << 'EOF'
 import smbus
 import time
 
@@ -67,3 +68,4 @@ def test_method4(bus, address):
 
 if __name__ == "__main__":
     test_capteur_simple()
+EOF
